@@ -4,6 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+opencv-python = "*"
+opencv-contrib-python = "*"
+chromedriver-binary = "~=108.0"
+requests = "*"
+jupyter = "*"
+notebook = "*"
+selenium = "==4.1.0"
 
 [dev-packages]
 
